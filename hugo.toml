@@ -1,4 +1,4 @@
-baseURL = 'https://sparkfysio.com/'
+baseURL = 'https://sparkfysio.com'
 languageCode = 'en-us'
 title = 'Spark Physio'
 theme = 'ananke'
