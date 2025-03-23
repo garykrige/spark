@@ -1,4 +1,14 @@
 baseURL = 'https://sparkfysio.com'
-languageCode = 'en-us'
 title = 'Spark Physio'
 theme = 'ananke'
+
+defaultContentLanguage = 'en'
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    weight = 10
+  [languages.nl]
+    contentDir = 'content/nl'
+    languageName = 'Nederlands'
+    weight = 20
