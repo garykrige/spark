@@ -2,6 +2,8 @@ baseURL = 'https://sparkfysio.com'
 title = 'Spark Fysio'
 theme = 'ananke'
 
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]

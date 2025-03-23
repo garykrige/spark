@@ -6,8 +6,15 @@
     <description>Recent content on Spark Fysio</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Mar 2025 17:22:21 +0100</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/book/</link>
+      <pubDate>Sun, 23 Mar 2025 17:22:21 +0100</pubDate>
+      <guid>http://localhost:1313/book/</guid>
+      <description>&lt;!-- Cal inline embed code begins --&gt;&#xA;    &lt;div style=&#34;width:100%;height:100%;overflow:scroll&#34; id=&#34;my-cal-inline&#34;&gt;&lt;/div&gt;&#xA;    &lt;script type=&#34;text/javascript&#34;&gt;&#xA;      (function (C, A, L) { let p = function (a, ar) { a.q.push(ar); }; let d = C.document; C.Cal = C.Cal || function () { let cal = C.Cal; let ar = arguments; if (!cal.loaded) { cal.ns = {}; cal.q = cal.q || []; d.head.appendChild(d.createElement(&#34;script&#34;)).src = A; cal.loaded = true; } if (ar[0] === L) { const api = function () { p(api, arguments); }; const namespace = ar[1]; api.q = api.q || []; if(typeof namespace === &#34;string&#34;){cal.ns[namespace] = cal.ns[namespace] || api;p(cal.ns[namespace], ar);p(cal, [&#34;initNamespace&#34;, namespace]);} else p(cal, ar); return;} p(cal, ar); }; })(window, &#34;https://app.cal.com/embed/embed.js&#34;, &#34;init&#34;);&#xA;    Cal(&#34;init&#34;, &#34;30min&#34;, {origin:&#34;https://cal.com&#34;});&#xA;    &#xA;      Cal.ns[&#34;30min&#34;](&#34;inline&#34;, {&#xA;        elementOrSelector:&#34;#my-cal-inline&#34;,&#xA;        config: {&#34;layout&#34;:&#34;month_view&#34;},&#xA;        calLink: &#34;garykrige/30min&#34;,&#xA;      });&#xA;    &#xA;      Cal.ns[&#34;30min&#34;](&#34;ui&#34;, {&#34;hideEventTypeDetails&#34;:false,&#34;layout&#34;:&#34;month_view&#34;});&#xA;      &lt;/script&gt;&#xA;    &lt;!-- Cal inline embed code ends --&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
