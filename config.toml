@@ -1,4 +1,4 @@
-title = "Spark Physio"
+title = "Spark Fysio"
 baseURL = "https://sparkfysio.com"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke/v2"]
 resourceDir = "../resources"
@@ -17,7 +17,7 @@ pagerSize = 3 # this is set low for demonstrating with dummy content. Set to a h
 contentDir = "content/en"
 languageCode = 'en-US'
 weight = 1
-title = "Spark Physio"
+title = "Spark Fysio"
 # languageDirection = 'rtl' for Right-To-Left languages
 
 [sitemap]

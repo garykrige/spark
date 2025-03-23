@@ -1,5 +1,5 @@
 baseURL = 'https://sparkfysio.com'
-title = 'Spark Physio'
+title = 'Spark Fysio'
 theme = 'ananke'
 
 defaultContentLanguage = 'en'

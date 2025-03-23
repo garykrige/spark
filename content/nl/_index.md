@@ -1,5 +1,5 @@
 ---
-title: "Spark Physio"
+title: "Spark Fysio"
 
 description: "Fysio in Driebergen"
 theme_version: '2.8.2'
